@@ -1,6 +1,16 @@
-<h1>Hello, My name is Kas! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hello, My Name is KB Alford! <br/> <a href="https://www.linkedin.com/in/kbamha/">Product Owner/Product Manager</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+
+
+<h2>📝 About Me:</h2>
+
+- <b>I'm from Boston, MA.</b>
+- <b>On a mission to add value to others.</b>
+- <b>Creating products that people love is my passion.</b>
+- <b>I'm a beliver of continous learning.</b>
+
+
+<h2>💻 Product Portfolio Overview:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -18,37 +28,22 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>🗂 Previous Clients</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [WhiteFlag: Mental Health App (iOS/Android)](https://www.crunchbase.com/organization/whiteflag)
+- [REALM: Real Estate Database](https://www.crunchbase.com/organization/realm-8f12)
+- [Beth Israel Lahey Health: EHR Software](https://www.crunchbase.com/organization/beth-israel-lahey-health-2b4f)
+- [The Home for Little Wanderers: Behavioral Health EHR Software](https://www.crunchbase.com/organization/the-home-for-little-wanderers)
+- [Joslin Diabetes Center: EHR Software and Diabetes Program Launching](https://www.crunchbase.com/organization/joslin-diabetes-center)
+- [Foundation Medicine: Proprietary Billing and Molecular Genetic Testing Softwares](https://www.crunchbase.com/organization/foundation-medicine)
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<h2> 📱 Contact Me:</h2>
+
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[linkedin]: https://www.linkedin.com/in/kbamha/
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
