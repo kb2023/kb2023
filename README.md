@@ -16,9 +16,7 @@
 - [Results Viewer](https://github.com/kb2023/RV)
 - [NeoVax](https://github.com/kb2023/NeoVax)
 - [REALM](https://github.com/kb2023/REALM)
-- [WhiteFlag](https://github.com/kb2023/WhiteFlag)
-- [Epic](https://github.com/kb2023/EpicRevenue)
-- [Cue2](https://github.com/kb2023/Cue2)
+- [CueSquared](https://github.com/kb2023/Cue2)
   
   
 <h2>🗂 Previous Clients</h2>
