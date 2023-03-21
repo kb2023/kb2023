@@ -7,7 +7,7 @@
 - <b>I'm from Boston, MA.</b>
 - <b>On a mission to add value to others.</b>
 - <b>Creating products that people love is my passion.</b>
-- <b>I'm a beliver of continous learning.</b>
+
 
 
 <h2>💻 Product Portfolio Overview:</h2>
