@@ -4,9 +4,11 @@
 
 <h2>📝 About Me:</h2>
 
-- <b>I'm from Boston, MA.</b>
-- <b>On a mission to add value to others.</b>
-- <b>Creating products that people love is my passion.</b>
+- <b>Agile Product Owner / Product Manager from Boston, MA.</b>
+- <b>On a mission to create innovative products that people love and add value to others.</b>
+- <b>Over 16 years of experience in the healthcare / biotechnology industries.</b>
+- <b>10 years of experience managing the revenue cycle on the front and back end of various EHR softawares and analayzing data.</b>
+- <b>Also experienced with SaaS, AWS Cloud, AI, Platform, Mobile Apps, and the Real Estate / GIS industry. .</b>
 
 
 
