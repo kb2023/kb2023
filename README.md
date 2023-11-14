@@ -2,7 +2,7 @@
 
 
 
-<h2>📝 Who Am I?</h2>
+<h2>📝 Who Am I? </h2>
 
  <b> Hello! </b>
  
@@ -13,6 +13,8 @@
  <b> Beyond this, my adeptness in stakeholder management ensures a seamless flow of communication between business goals and development realities. </b>
  
  <b> Let's connect innovation with excellence and create products that truly resonate. </b>
+
+[Click here for more information about me](https://github.com/kb2023/About-Me)
 
 
 
