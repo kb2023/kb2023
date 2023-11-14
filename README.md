@@ -2,13 +2,17 @@
 
 
 
-<h2>📝 About Me:</h2>
+<h2>📝 Who Am I?</h2>
 
-- <b>Agile Product Owner / Product Manager from Boston, MA.</b>
-- <b>On a mission to create innovative products that people love and add value to others.</b>
-- <b>Over 16 years of experience in the healthcare / biotechnology industries.</b>
-- <b>10 years of experience managing the revenue cycle on the front and back end of various EHR softawares and analayzing data.</b>
-- <b>Also experienced with SaaS, AWS Cloud, AI, Platform, Mobile Apps, and the Real Estate / GIS industry. .</b>
+ <b> Hello! </b>
+ 
+ <b> I'm a Boston-based Product Manager and Agile Product Owner, specializing in creating user-focused solutions that solve problems and enhance experiences. With experience in automating workflows and tasks, I've significantly boosted internal efficiency, allowing teams to reclaim their productivity. </b>
+
+ <b> I'm skilled at finding important information in large data sets, carefully looking through it to help make smart business choices. I also make custom reports for stakeholders, giving them exactly what they need to guide our product decisions.</b>
+ 
+ <b> Beyond this, my adeptness in stakeholder management ensures a seamless flow of communication between business goals and development realities. </b>
+ 
+ <b> Let's connect innovation with excellence and create products that truly resonate. </b>
 
 
 
